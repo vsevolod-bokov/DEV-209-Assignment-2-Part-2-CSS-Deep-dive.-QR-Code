@@ -90,6 +90,9 @@ ul {
     row-gap: 20px;
 
     box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.051);
+
+    border-style: dotted;
+    border-width: 1px;
 }
 
 .card-img {
